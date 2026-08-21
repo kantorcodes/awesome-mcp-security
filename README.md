@@ -129,7 +129,8 @@ Official Security Considerations from the [Official MCP Specification Rev: 2025-
 
 ## 🧑‍🚀 Tools and code
 
-- (12.07.2026) [HOL Guard by hashgraph-online](https://github.com/hashgraph-online/hol-guard)
+- (21.08.2026) [HOL Guard by Hashgraph Online](https://github.com/hashgraph-online/hol-guard) — Local-first runtime control for AI coding agents (shell, secret-file reads, MCP server change, plugin/skill install). Not a cloud MCP gateway and not a complete MCP security program. https://hol.org/guard
+- (21.08.2026) [HOL plugin-security dataset](https://huggingface.co/datasets/HashgraphOnline/hol-plugin-security) — 205 catalog plugins, modeled runtime fixtures, advisories mapped to OWASP MCP Top 10 (beta). Scan is not a safety guarantee. 205 ≠ Registry Broker agent counts.
 - [MCP Audit Extension - Audit and log all GitHub Copilot MCP tool calls in VSCode with ease](https://github.com/Agentity-com/mcp-audit-extension)
 - [Secure MCP - Security auditing tool to detect MCP vulnerabilities and misconfigurations by makalin](https://github.com/makalin/SecureMCP)
 - [mcp-context-protector - Security wrapper for MCP servers by trailofbits](https://github.com/trailofbits/mcp-context-protector)
